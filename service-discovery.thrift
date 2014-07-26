@@ -1,5 +1,6 @@
 namespace csharp thrift.discoveryservice
 namespace java thrift.discoveryservice
+namespace php thrift.discoveryservice
 
 struct ServiceInfo {
    1: string host,
